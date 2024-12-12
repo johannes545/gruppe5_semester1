@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ProduktController
+comment0.text=\r\n\ Write\ a\ description\ of\ ProduktController\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ProduktController()
+comment2.params=produkt
+comment2.target=void\ addProdukt(Produkt)
+comment3.params=Sku
+comment3.target=void\ removeProdukt(java.lang.String)
+comment4.params=Sku
+comment4.target=Produkt\ findProdukt(java.lang.String)
+comment5.params=
+comment5.target=void\ showAllProdukts()
+comment6.params=
+comment6.target=void\ createTestData()
+numComments=7

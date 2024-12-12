@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lager
+comment0.text=\r\n\ Vestbjerg\ Byggecenter\ Lager\r\n\ \r\n\ @Studiegruppe\ 6,\ Johannes\ Wulff\ Andersen,\ Rune\ L\u00F8ve\ Mark\ Hansen,\r\n\ Mike\ Nygaard\ Melin\ Davidsen,\ Long\ Duy\ Nguyen,\ Mathias\ Kassow\r\n\ @10/12/2024\r\n
+comment1.params=newProduktionLokation\ newLagerKapacitet
+comment1.target=Lager(java.lang.String,\ int)
+comment2.params=newProduktLokation
+comment2.target=void\ setProduktLokation(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getProduktLokation()
+comment4.params=newLagerKapacitet
+comment4.target=void\ setLagerKapacitet(int)
+comment5.params=
+comment5.target=int\ getLagerKapacitet()
+numComments=6

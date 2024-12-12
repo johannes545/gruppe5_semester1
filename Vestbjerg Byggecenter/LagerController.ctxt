@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LagerController
+comment0.text=\r\n\ Write\ a\ description\ of\ LagerController\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=LagerController()
+comment2.params=produktLokation
+comment2.target=void\ addProduktLokation(Lager)
+comment3.params=produktLokation
+comment3.target=void\ removeProduktLokation(java.lang.String)
+comment4.params=hyldenummer
+comment4.target=Lager\ findProduktLokation(java.lang.String)
+comment5.params=
+comment5.target=void\ showAllProduktLokationer()
+numComments=6
